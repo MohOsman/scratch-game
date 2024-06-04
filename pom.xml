@@ -55,7 +55,7 @@
         <configuration>
           <archive>
             <manifest>
-              <mainClass>org.scratchgame.App</mainClass> <!-- Replace with your actual main class -->
+              <mainClass>org.scratchgame.App</mainClass>
             </manifest>
           </archive>
         </configuration>
